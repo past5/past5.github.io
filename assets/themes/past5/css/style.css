@@ -1,0 +1,406 @@
+/* Custom container */
+
+body {
+    font-family:  "roboto_slabregular";
+    font-size: 15px;
+
+    background: #cccccc;
+    background: -webkit-linear-gradient(#cccccc, #ffffff);
+    background: -o-linear-gradient(#cccccc, #ffffff);
+    background: -moz-linear-gradient(#cccccc, #ffffff); 
+    background: linear-gradient(#cccccc, #ffffff); 
+    
+    /*background: url("../images/background.jpg") center center no-repeat;
+    
+    background: url("../images/background.jpg") center center no-repeat, -webkit-linear-gradient(#cccccc, #ffffff);
+    background: url("../images/background.jpg") center center no-repeat, -o-linear-gradient(#cccccc, #ffffff);
+    background: url("../images/background.jpg") center center no-repeat, -moz-linear-gradient(#cccccc, #ffffff); 
+    background: url("../images/background.jpg") center center no-repeat, linear-gradient(#cccccc, #ffffff); 
+    */
+    background-attachment: fixed;
+    
+    -webkit-background-size: cover; /* For WebKit*/
+    -moz-background-size: cover;    /* Mozilla*/
+    -o-background-size: cover;      /* Opera*/
+    background-size: cover;         /* Generic*/
+    
+} 
+
+.profile {
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    -webkit-border-radius: 50%;
+    -o-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    
+    width: 200px;
+    height: 200px;
+    float: left;
+    background: url("../images/profile.png")  center center no-repeat;
+    margin: 5px 10px 0 0;
+    
+    -webkit-background-size: 100%; /* For WebKit*/
+    -moz-background-size: 100%;    /* Mozilla*/
+    -o-background-size: 100%;      /* Opera*/
+    background-size: 100%;         /* Generic*/
+}
+
+.float-left {
+	float: left;
+	margin: 5px 20px 0 0;
+}
+
+.float-right {
+	float: right;
+	margin: 5px 0 0 20px;
+}
+
+.posted {
+	display: inline-block;
+	align: right;
+	font-size: 0.7em;
+}
+
+.tagline {
+	display: inline-block;
+}
+
+.spacing {
+    line-height: 1.5;
+}
+
+.glyphicon {
+	margin-top:10px;
+	margin-right:5px;
+}
+
+/* Custom Navbar Colors*/
+.navbar-default {
+	background-color: #0099cc;
+	border-color: #cccccc;
+	//border-color: transparent;
+	font-family: "mons_olympiaregular";
+	margin-bottom: 0px;
+	font-size: 1.3em;
+}
+.navbar-default .navbar-brand {
+	color: #ffffff;
+	font-size: 2em;
+}
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
+	color: #000000;
+}
+.navbar-default .navbar-text {
+	color: #ffffff;
+}
+.navbar-text {
+	margin-top:10px;
+	margin-bottom:10px
+}
+.navbar-default .navbar-nav > li > a {
+	color: #ffffff;
+}
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+	color: #000000;
+}
+
+.navbar-default .navbar-nav > a {
+	color: #ffffff;
+}
+.navbar-default .navbar-nav > a:hover, .navbar-default .navbar-nav > a:focus {
+	color: #000000;
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+	color: #000000;
+	background-color: #cccccc;
+	//background-color: transparent;
+}
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
+	color: #000000;
+	background-color: #cccccc;
+	//background-color: transparent;
+}
+.navbar-default .navbar-toggle {
+	border-color: #cccccc;
+	//border-color: transparent;
+}
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+	background-color: #cccccc;
+	//background-color: transparent;
+}
+.navbar-default .navbar-toggle .icon-bar {
+	background-color: #ffffff;
+}
+.navbar-default .navbar-collapse,
+.navbar-default .navbar-form {
+	border-color: #ffffff;
+}
+.navbar-default .navbar-link {
+	color: #ffffff;
+}
+.navbar-default .navbar-link:hover {
+	color: #000000;
+}
+
+@media (max-width: 767px) {
+	.navbar-default .navbar-nav .open .dropdown-menu > li > a {
+		color: #ffffff;
+	}
+	.navbar-default .navbar-nav .open .dropdown-menu > li > a:hover, .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
+		color: #000000;
+	}
+	.navbar-default .navbar-nav .open .dropdown-menu > .active > a, .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover, .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
+		color: #000000;
+		background-color: #cccccc;
+		//background-color: transparent;
+	}
+}
+
+/* Custom Fonts */
+@font-face {
+    font-family: 'mons_olympiaregular';
+    src: url('../fonts/mons_olympia-webfont.eot');
+    src: url('../fonts/mons_olympia-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/mons_olympia-webfont.woff2') format('woff2'),
+         url('../fonts/mons_olympia-webfont.woff') format('woff'),
+         url('../fonts/mons_olympia-webfont.ttf') format('truetype'),
+         url('../fonts/mons_olympia-webfont.svg#mons_olympiaregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'mons_olympiacondensedregular';
+    src: url('../fonts/mons_olympia_condensed-webfont.eot');
+    src: url('../fonts/mons_olympia_condensed-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/mons_olympia_condensed-webfont.woff2') format('woff2'),
+         url('../fonts/mons_olympia_condensed-webfont.woff') format('woff'),
+         url('../fonts/mons_olympia_condensed-webfont.ttf') format('truetype'),
+         url('../fonts/mons_olympia_condensed-webfont.svg#mons_olympiaregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'roboto_slabregular';
+    src: url('../fonts/robotoslab-regular-webfont.eot');
+    src: url('../fonts/robotoslab-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/robotoslab-regular-webfont.woff2') format('woff2'),
+         url('../fonts/robotoslab-regular-webfont.woff') format('woff'),
+         url('../fonts/robotoslab-regular-webfont.ttf') format('truetype'),
+         url('../fonts/robotoslab-regular-webfont.svg#roboto_slabregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'roboto_condensedregular';
+    src: url('../fonts/robotocondensed-regular-webfont.eot');
+    src: url('../fonts/robotocondensed-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/robotocondensed-regular-webfont.woff2') format('woff2'),
+         url('../fonts/robotocondensed-regular-webfont.woff') format('woff'),
+         url('../fonts/robotocondensed-regular-webfont.ttf') format('truetype'),
+         url('../fonts/robotocondensed-regular-webfont.svg#roboto_condensedregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'inconsolatamedium';
+    src: url('../fonts/inconsolata-webfont.eot');
+    src: url('../fonts/inconsolata-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/inconsolata-webfont.woff2') format('woff2'),
+         url('../fonts/inconsolata-webfont.woff') format('woff'),
+         url('../fonts/inconsolata-webfont.ttf') format('truetype'),
+         url('../fonts/inconsolata-webfont.svg#inconsolatamedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+img {
+	margin-top: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+}
+
+code {
+	font-family:  "inconsolatamedium";
+	color: #990000;
+	padding:2px 4px;
+	font-size:0.9em;
+	background-color:#E6E6E6;
+	white-space:nowrap;
+	border-radius:4px;
+}
+
+h1, h2, h3 {
+	font-family:  "mons_olympiaregular";
+  	color: #ff6600;
+}	
+
+h4 {
+	font-family:  "mons_olympiaregular";
+	color: #ff6600;
+}
+
+h1 {
+    font-size: 4em;
+}
+
+h2 {
+    font-size: 3em;
+}
+
+h3 {
+    font-size: 2em;
+}
+
+h4 {
+    font-size: 1.5em;
+}
+
+p, ul, ol, span {
+    font-size: 1em;
+}
+
+code > span {
+	font-size: 1em;
+}
+
+ul ul {
+	font-size: 1em;
+}
+
+ul p {
+	font-size: 1em;
+}
+
+ol p {
+	font-size: 1em;
+}
+
+ul span {
+	font-size: 1em;
+}
+
+ol span {
+	font-size: 1em;
+}
+
+hr {
+	border-top:1px solid #cccccc;
+}
+
+h4 > small {
+	color: #333333;
+}
+
+/*page header*/
+.page-header {
+	padding-bottom:9px;
+	margin:20px 0 0px;
+}
+
+.col-xs-12 {
+	 background-color: #ffffff;
+}
+	
+/*Footer */
+#footer {
+	background-color: transparent;
+	font-family: "roboto_slabregular";
+}
+
+.bottom {
+	font-size: 0.7em;
+}
+
+pre {
+	background-color: #000000;
+	color: #ffffff;
+	font-size: 1 em;
+}
+
+a {
+	color: #0099cc;
+}
+
+.pagination {
+	margin: 0;
+	font-family: "mons_olympiaregular";
+}
+
+.pagination > li > a {
+	color: #ffffff;
+	background-color: #0099cc;
+}
+
+.pagination  > li > a:hover, .pagination > li > a:focus {
+	color: #000000;
+	background-color: #0099cc;
+}
+
+/* posts index */
+.post > h3.title {
+  position: relative;
+  padding-top: 10px; }
+
+.post > h3.title span.date {
+  position: absolute;
+  right: 0;
+  font-size: 0.9em; }
+
+.post > .more {
+  margin: 10px 0;
+  text-align: left; }
+
+/* post-full*/
+.post-full .date {
+  margin-bottom: 20px;
+  font-weight: bold; }
+
+/* tag_box */
+.tag_box {
+  list-style: none;
+  margin: 0;
+  border: 2px solid #ffffff;
+  overflow: hidden; 
+  font-family:  "mons_olympiaregular";}
+
+.tag_box li {
+  line-height: 28px; }
+
+.tag_box li i {
+  opacity: 0.9; }
+
+.tag_box.inline li {
+  float: left; }
+
+.tag_box a {
+  padding: 3px 6px;
+  margin: 2px;
+  background: #aaaaaa;
+  color: #ffffff;
+  border-radius: 3px;
+  text-decoration: none;
+  border: 2px solid #ffffff; }
+
+.tag_box a span {
+  vertical-align: super;
+  font-size: 0.8em; }
+
+.tag_box a:hover {
+  color: #000000; }
+
+.tag_box a.active {
+  background: #aaaaaa;
+  border: 1px solid #aaaaaa;
+  color: #000000; }
