@@ -23,7 +23,7 @@ In this example, let's say we want to add a .jpg file as an attachment to our MI
 #### Step 1 - Specify attachment
 We are using the file called [test.jpg](/assets/post_docs/test.jpg) as an attachment.
 
-{% highlight Shell %}
+{% highlight bash %}
 [sev@linusaur sendmaildemo]$ attach='test.jpg'
 [sev@linusaur sendmaildemo]$ echo $attach
 test.jpg
@@ -33,7 +33,7 @@ test.jpg
 Now, we need to determine what MIME file type we are dealing with.  One command we can use is `gnomevfs-info` which gives us the relevant file information.  At the same time, we can use pattern-matching
 command such as `awk` to find the specific information we are looking for.
 
-{% highlight Shell %}
+{% highlight bash %}
 [sev@linusaur sendmaildemo]$ mimetype=`gnomevfs-info -s $attach | awk '{FS=":"} /MIME type/ {gsub(/^[ \t]+|[ \t]+$/, "",$2); print $2}'`
 [sev@linusaur sendmaildemo]$ echo $mimetype
 image/jpeg
@@ -43,7 +43,7 @@ image/jpeg
 MIME requires us to encode the attachment in base-64.  We can use `uuencode` command to do that.  After the encoding, we would need to remove first and last lines, which specify start and end of encoding.
 `sed` stream editor will help us easily remove those lines.
 
-{% highlight Shell %}
+{% highlight bash %}
 [sev@linusaur sendmaildemo]$ tempfile='attach.temp'
 [sev@linusaur sendmaildemo]$ rm -f $tempfile
 [sev@linusaur sendmaildemo]$ cat $attach|uuencode --base64 $attach>$tempfile
@@ -57,7 +57,7 @@ At this point, we created [attach.temp](/assets/post_docs/attach.temp) file cont
 A multi-part MIME message require boundaries between different parts of the message, and at the start and end of the message body.  Boundary could be anything specified by boundary argument in Content-Type
 MIME header.  In our case, we will use the first 32 characters of MD5 checksum of current time in seconds as a message boundary, using `md5sum` command.
 
-{% highlight Shell %}
+{% highlight bash %}
 [sev@linusaur sendmaildemo]$ boundary=`date +%s|md5sum`
 [sev@linusaur sendmaildemo]$ boundary=${boundary:0:32}
 [sev@linusaur sendmaildemo]$ echo $boundary
@@ -67,7 +67,7 @@ MIME header.  In our case, we will use the first 32 characters of MD5 checksum o
 #### Step 5 - Create email message
 Finally, we can create our MIME [message.mail](/assets/post_docs/message.mail) file and combine it with our boundary and attachment.
 
-{% highlight Shell %}
+{% highlight bash %}
 [sev@linusaur sendmaildemo]$ mailfile='message.mail'
 [sev@linusaur sendmaildemo]$ rm -f $mailfile
 
