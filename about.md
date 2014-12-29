@@ -11,7 +11,7 @@ tagline: I'm Sev.  Customer Oriented Problem Solver, Software Engineer, Project 
 
 #### Actually
 My full name is **Vsevolod Geraskin**, where the first name comes from old Russian meaning _the owner of everything_.  While my parents had big plans for me, I can never take a phrase _live up to my name_ 
-quite seriously.  Simply call me **Sev**, which doesn't break your tongue and spares me from having Tsarist ambitions. 
+quite seriously.  Simply call me **Sev**, which doesn't break your tongue and spares me from having Tsarist ambitions.  If you would like to connect, I am also on [LinkedIn](https://ca.linkedin.com/in/past5).
 
 #### A bit about myself  
 Born in USSR, but left Russia as a kid coming to Vancouver with my parents and sister in 1994.  Consider myself a Canadian first and foremost, but still feel affection for
@@ -30,7 +30,7 @@ articles and help someone with their work, then my goals would be achieved.  Als
 spaceship...  
 
 ...Oh yeah, and if you are still wondering what you can find on the menu here, the main course is Software Development with a side of Agile Project Management, sprinkled with spices of personal musings. 
-The posts are divided into three main sections: projects, tutorials, and articles.  Hopefully, the latter two will be of some use to you unless you are also curious about some of my past projects.
+The posts are divided into three main sections: projects, tutorials, and articles.  Hopefully, the latter two will be of some use to you, unless you are also curious about my past projects.
 
 #### Why Past 5?
 **Past 5** signifies the never ending professional journey of an Information Technology consultant, whose work is not constrained by regular office hours.  **Past 5** is also that bit of extra effort we 
