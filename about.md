@@ -30,7 +30,8 @@ articles and help someone with their work, then my goals would be achieved.  Als
 spaceship...  
 
 ...Oh yeah, and if you are still wondering what you can find on the menu here, the main course is Software Development with a side of Agile Project Management, sprinkled with spices of personal musings. 
-The posts are divided into three main sections: projects, tutorials, and articles.  Hopefully, the latter two will be of some use to you, unless you are also curious about my past projects.  If you would like to connect, I am also on [LinkedIn](https://ca.linkedin.com/in/past5).
+The posts are divided into three main sections: projects, tutorials, and articles.  Hopefully, the latter two will be of some use to you, unless you are also curious about my past projects.  If you still would like to connect
+after reading my ramblings, I am also on [LinkedIn](https://ca.linkedin.com/in/past5).
 
 #### Why Past 5?
 **Past 5** signifies the never ending professional journey of an Information Technology consultant, whose work is not constrained by regular office hours.  **Past 5** is also that bit of extra effort we 
