@@ -56,6 +56,22 @@ body {
 	margin: 5px 0 0 20px;
 }
 
+@media only screen 
+and (max-width : 320px) {
+	.float-left {
+		float: left;
+		margin: 2px 5px 0 0;
+		width: 320 px;
+	}
+	
+	.float-right {
+		float: right;
+		margin: 2px 0 0 5px;
+		width: 320 px;
+	}
+}
+
+
 .posted {
 	display: inline-block;
 	align: right;
