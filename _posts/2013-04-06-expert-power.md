@@ -15,8 +15,8 @@ However, I acknowledge that I might harbour a bias coming from a highly technica
 <img class="float-left" width="480pt" src="/assets/post_images/expert1.jpg" alt="Expertise" />
 
 #### Armchair critic
-After reading the article by Mike Myatt _The Most Common Leadership Model - And Why It's Broken_ published by Forbes on March 28, 2013, I could not resist offering a few comments.
-The url link for the article is: [http://www.forbes.com/sites/mikemyatt/2013/03/28/the-most-common-leadership-model-and-why-its-broken/](http://www.forbes.com/sites/mikemyatt/2013/03/28/the-most-common-leadership-model-and-why-its-broken/).
+After reading the article by Mike Myatt [The Most Common Leadership Model - And Why It's Broken](http://www.forbes.com/sites/mikemyatt/2013/03/28/the-most-common-leadership-model-and-why-its-broken/) 
+published by Forbes on March 28, 2013, I could not resist offering a few comments.
 
 Personally, I highly value competency and disagree with the premise that _when organizations hire, develop, and promote leaders using a competency-based model, 
 they're unwittingly incubating failure._  While I believe that technical competency alone does not make you a great leader, it is still a necessary element of performing well at any leadership position. 

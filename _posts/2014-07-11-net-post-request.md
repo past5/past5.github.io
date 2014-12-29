@@ -16,7 +16,7 @@ Oftentimes, such as when hacking demos, we want our client side app talking to s
 POST request using `HTTPWebRequest` object.  `HTTPWebRequest` does exactly what the name suggests and saves us a lot of time from having to write our own HTTP calls.
 
 #### As simple as URL
-During the first step, we would split our URL such as `http://www.someserver.com/service.aspx?var1=val1&var2=val2` into the address 
+During the first step, we would split our URL such as `http://www.someserver.com/service.aspx?var1=val1..` into the address 
 of the server and the body containing our POST variables.  Of course, if we were creating a GET request, then we would not need to do that.
 
 {% highlight C# %}
