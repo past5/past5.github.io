@@ -30,7 +30,7 @@ One way to issue a client certificate from our certificate authority is by using
 
 **1. Generate RSA private key _testclient.pem_ with 2048-bit encryption strength**
 
-{% highlight Shell %}
+{% highlight bash %}
 [root@linusaur certs]# openssl genrsa -des3 -out testclient.pem 2048
 Generating RSA private key, 2048 bit long modulus
 ........................+++
@@ -42,7 +42,7 @@ Verifying - Enter pass phrase for testclient.pem:
 
  **2. For self-signed certificate, issue certificate signing request _testclient.csr_ with your details**
  
- {% highlight Shell %}
+ {% highlight bash %}
  
 [root@linusaur certs]# openssl req -new -key testclient.pem -out
 testclient.csr
@@ -70,7 +70,7 @@ An optional company name []:
 
  **3. Issue client certificate _testclient.crt_ against our certificate authority _ariCA.crt_ with 360 days expiry**
  
-{% highlight Shell %}
+{% highlight bash %}
 [root@linusaur certs]# openssl ca -days 360 -in testclient.csr -out testclient.crt
 -keyfile arikey.pem -cert ariCA.crt -policy policy_anything
 Using configuration from /etc/pki/tls/openssl.cnf
