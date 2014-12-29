@@ -130,4 +130,4 @@ until we have the complete decrypted SSL record.  For a more complete descriptio
 
 #### Activity diagram of SSL sockets + select()
 
-<img width="480pt" src="/assets/post_images/select1.png" alt="Activity Diagram of SSL sockets + select()" />
+<img width="480pt" class="resize" src="/assets/post_images/select1.png" alt="Activity Diagram of SSL sockets + select()" />
