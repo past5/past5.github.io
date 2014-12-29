@@ -1,0 +1,39 @@
+<div class="page-header">
+  <h1>{{ page.title }} </h1>
+  	<div class="tagline"><h4>{% if page.tagline %} <small>{{ page.tagline }}</small>{% endif %}</h4></div>
+    <div class="posted">
+  	- posted on {{ page.date | date: "%B %e, %Y" }} by <a href="{{ BASE_PATH }}/about">{{ page.author }}</a> in <a href="/{{ page.category }}">{{ page.category }}</a> about
+  	{% for tag in page.tags %} 
+  	<a href="{{ BASE_PATH }}{{ site.JB.tags_path }}#{{ tag }}-ref">{{ tag }}<sup>{{ site.tags[tag].size }}</sup></a> 
+    {% endfor %}
+  	</div>
+    
+</div>
+
+<div class="row page-full">
+  <div class="col-xs-12">
+    <div class="content">
+      {{ content }}
+    </div>
+  <hr>
+   <div class="pagination">
+	  <span>
+	  {% if page.previous %}
+	    <a rel="prev" href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&laquo; Prev</a>
+	  {% else %}
+	    &laquo; Prev
+	  {% endif %}
+		<a href="{{ BASE_PATH }}{{ site.JB.archive_path }}">Archive</a>
+	  {% if page.next %}
+	    <a rel="next" href="{{ BASE_PATH }}{{ page.next.url }}"  title="{{ page.next.title }}">Next &raquo;</a>
+	  {% else %}
+	    Next &raquo;
+	  {% endif %}
+	  </span>
+	</div>
+	<hr>
+    {% include JB/comments %}
+    <a name="comments"></a>
+    <hr>
+  </div>
+</div>

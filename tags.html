@@ -1,0 +1,33 @@
+---
+layout: page
+title: Tags
+header: Posts By Tag
+tagline: All posts by tag.
+---
+
+{% include JB/setup %}
+	<h4>
+	<p class="spacing">
+	{% for tag in site.tags %} 
+	  	<a href="{{ BASE_PATH }}{{ site.JB.tags_path }}#{{ tag[0] }}-ref">{{ tag[0] }}<sup>{{ tag[1].size }}</sup></a>&nbsp;&nbsp;
+	{% endfor %}
+	</p>
+	</h4>
+	
+{% for tag in site.tags %} 
+  <h3 id="{{ tag[0] }}-ref">{{ tag[0] }}</h3>
+  <ul>
+    {% assign post_list = tag[1] %}  
+	
+    {% for post in post_list %}
+    	<li>
+  	
+	<div class="tagline"><h4><a href="{{ BASE_PATH }}{{post.url}}">{{post.title}}</a></h4></div>
+	<div class="posted">
+  	- posted on {{ post.date | date: "%B %e, %Y" }} by <a href="{{ BASE_PATH }}/about">{{ post.author }}</a> in <a href="/{{ post.category }}">{{ post.category }}</a>
+  	</div>
+	
+	  	</li>
+    {% endfor %}
+  </ul>
+{% endfor %}
