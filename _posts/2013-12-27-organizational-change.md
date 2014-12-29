@@ -41,6 +41,8 @@ The goal would then change to getting the word out in order to align their staff
 Lastly, in order to reinforce continuous commitment to changes, an IT manager would also use an image of interpreter to engage in storytelling of successes to their staff, such as, for example,
 improvement in performance of employees in an early adopter piloting department whom the IT staff trained and supported.
 
+<img width="480pt" class="float-left" src="/assets/post_images/change2.gif" alt="Burke-Litwin Diagnostic Model" />
+
 The role of Information Technology Consultant is assumed to be external to an organization undergoing technological change and could involve creating complete change plans through collaboration
 with all stakeholders in that organization.  A consultant would primarily use coach image of implementing change.  From my years of experience leading various software upgrade initiatives,
 I found that the best way to overcome resistances and ensure that stakeholders accept the new technology is by identifying and training specific skills within them.  Thus, I believe a consultant 
@@ -51,6 +53,8 @@ from various perspectives of different models could reveal problems in organizat
 and culture.  For example, adopting Customer Relationship Management software could involve new organizational focus on creating greater value for customers. 
 Finally, to plan actions, a consultant could use other images of managing change as well, such as an image of director in order to create change milestones or short-term wins.
 
+<img  width="480pt" class="float-right" src="/assets/post_images/change3.gif" alt="Appreciative Inquiry 4-D cycle" />
+
 The above exploration of change activities and images of managing change from the perspective of the three IT roles results in several interesting revelations.  First, the majority of examined change
 efforts are oriented towards people rather than organizational structures and processes.  Thus, training intra- and inter- personal skills, a personal development often neglected by IT staff,
 would make a technology practitioner a much more effective change contributor.  Second, the common theme emerging from all three perspectives is that the approach and the selection of image for managing change should
@@ -59,16 +63,6 @@ an IT specialist can make to organizational change efforts.  Finally, introducin
 effectively.  What many managers consider and approach as an incremental, first-order purely technological change could actually require transformational, second-order culture change within the
 organization.  Therefore, a complete IT professional should contribute the ability to analyze the organization from different perspectives and reveal additional factors which could be overlooked by other
 change managers.
-
-#### Burke-Litwin diagnostic model
-
-<img width="480pt" src="/assets/post_images/change2.gif" alt="Burke-Litwin Diagnostic Model" />
-
-#### Appreciative Inquiry 4-D cycle
-
-<img width="480pt" src="/assets/post_images/change3.gif" alt="Appreciative Inquiry 4-D cycle" />
-
-
 
 
 

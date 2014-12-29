@@ -32,9 +32,9 @@ Thrive Pregnancy smartphone app includes:
 - A list of resources in Vancouver.
 
 <div>
-<img width="30%" height="30%" src="/assets/post_images/thrive1.png" alt="Thrive Pregnancy Screenshot" />
-<img width="30%" height="30%" src="/assets/post_images/thrive2.png" alt="Thrive Pregnancy Screenshot" />
-<img width="30%" height="30%" src="/assets/post_images/thrive3.png" alt="Thrive Pregnancy Screenshot" />
+<img width="30%" height="auto" class="resize" src="/assets/post_images/thrive1.png" alt="Thrive Pregnancy Screenshot" />
+<img width="30%" height="auto" class="resize" src="/assets/post_images/thrive2.png" alt="Thrive Pregnancy Screenshot" />
+<img width="30%" height="auto" class="resize" src="/assets/post_images/thrive3.png" alt="Thrive Pregnancy Screenshot" />
 </div>
 
 #### Project Outcomes
