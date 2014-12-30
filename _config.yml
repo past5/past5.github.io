@@ -29,7 +29,7 @@ author :
 production_url : http://www.past5.com
 
 # pagination
-paginate : 5
+paginate : 4
 paginate_path: "/pages/page:num"
   
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
