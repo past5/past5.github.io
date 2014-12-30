@@ -34,7 +34,7 @@ so why not do it before going to bed which does not require any motivation.  Ins
 Coming in to the office with all the urgent issues already dealt with allows us to relax and fully focus our creativity on solving challenging problems.
 
 #### Quick replies first
-Out of 100 emails in your inbox, 30 might not need replying to, and 50 could be replied to in under two minutes.   Deal with those first.  Psychologically, it is easier to handle 20 emails in the inbox, 
+Out of 100 emails in your inbox, 30 might not need replying to, and 50 could be replied to in under two minutes each.   Deal with those first.  Psychologically, it is easier to handle 20 emails in the inbox, 
 even if the requests are challenging and require significant time.  Besides, those first 50 customers will be happy receiving a prompt reply even if their issues seem insignificant to you.
 
 #### Templates
