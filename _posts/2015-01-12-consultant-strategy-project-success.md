@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Consultant's Strategies for Project Success"
+title: "A Consultant's Strategy for Project Success"
 tagline: "how can a small business deliver large projects?"
 description: "This articles examines factors enhancing the chances of a small business or a consultant to successfully deliver large projects."
 author: Vsevolod Geraskin
