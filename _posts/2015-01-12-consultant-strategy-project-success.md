@@ -49,7 +49,7 @@ control of all project communication.  Smaller size of the team also helps the i
 more flexible communication planning.
 
 #### Process aids expertise
-So, can we say with confidence that a self-employed consultant can compete with a large business for a large project?  The answer is a frustrating maybe.  Situationally, if the project is fully within the domain
+So, can we conclude that a self-employed consultant can compete with a large business for a large project?  The answer is a frustrating maybe.  Situationally, if the project is fully within the domain
 knowledge of the consultant, then their chances of success are significantly higher.  On the other hand, larger projects involving several knowledge domains are probably better handled by larger
 organizations with available resources in every necessary area of expertise. 
 
