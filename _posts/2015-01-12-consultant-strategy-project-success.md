@@ -16,8 +16,8 @@ maintaining greater intimacy with external stakeholders than larger companies."
 <img class="float-left" width="300pt" src="/assets/post_images/success1.png" alt="Cup" />
 
 #### Strategy for success
-In the last post, we asked a question of how can a small business or a consultant with limited resources and immature ad hoc processes compete with large enterprises with greater resources and
-well-defined processes for large projects.   Unsurprisingly, some competitive strategies a small business can adopt are also some of its greatest strength: niche expertise, faster decision making, and
+In the last post, we wondered whether a small business or a consultant with limited resources and immature processes could compete with large enterprises having greater resources and
+well-defined processes for large projects.   Unsurprisingly, a small business could use strategies derived from its greatest strengths such as niche expertise, faster decision making, and
 flexibility.  Oftentimes, these intrinsic advantages allow small businesses to achieve more with less while maintaining greater intimacy with external stakeholders than larger companies.
 
 #### Niche expertise
