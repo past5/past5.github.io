@@ -22,7 +22,7 @@ flexibility.  Oftentimes, these intrinsic advantages allow small businesses to a
 
 #### Niche expertise
 <img class="float-right" width="300pt" src="/assets/post_images/success2.jpg" alt="Expert Trail" />
-Almost always, the consultant's expertise would be the deciding factor for success.  A small business or a consultant usually offers expertise in a particular specific field where their experience and
+Almost always, a consultant's industry experience would be the deciding factor for their success.  A small business or a consultant usually offers expertise in a particular specific field where their experience and
 knowledge gives them a distinct advantage over the competitors.  For example, the company I am currently involved with can deliver new versions of our feature-rich pharmacy management product in short
 iterations because it is led by a 30 year industry professional who has unparalleled expertise in delivering Pharmanet software in British Columbia.  Moreover, we are supported by pharmacists who advise
 us and provide their industry-specific perspective.
