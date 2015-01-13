@@ -14,7 +14,7 @@ revert back to their old DB3 with DOS-based interface threatening to leave you f
 <img class="float-left" width="480pt" src="/assets/post_images/upgrade1.jpg" alt="Time to Upgrade" />
 
 #### Why change what works
-You upgraded the client's database to a shiny new SQL server and gave them a superior software product with a sleek modern UI.  And yet, you get a call next morning with the client yelling at you to
+You upgraded a client's database to a shiny new SQL server and gave them a superior software product with a sleek modern UI.  And yet, you get a call next morning with the client yelling at you to
 revert back to their old DB3 with DOS-based interface threatening to leave you for your competitor.  You reluctantly give in and put them back on the old product.  The upgrade is a disaster.
 
 A major software upgrade across the client base is something that most companies eventually have to deal with sooner or later.  Handled correctly, new versions of software generally result in streamlined 
