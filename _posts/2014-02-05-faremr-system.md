@@ -42,9 +42,9 @@ segment containing patient health data.
 FAR-EMR system is a secure and scalable multi-part server I built as an alternative to costly EMR systems in order to allow clinical document exchange between healthcare professionals.
 The type of a clinical document the system is created to handle contains patient's medication history and is created in pharmacy or
 nursing home by a pharmacist or a nurse for use by doctors or other relevant healthcare
-professionals.
+professionals.  The project was sponsored by my current company, Applied Robotics Inc., and significantly enhanced our personal health record expertise.  
 
-The total project effort was approximately 1500 hours, and was sponsored by my main client, Applied Robotics Inc.  FAR-EMR project used Agile development methodology, while closely following XP process.
+FAR-EMR project used Agile development methodology, while closely following XP process.
 The small size of project team and close collaboration with nursing homes, pharmacies
 and various EMR vendors made Agile the appropriate methodology to develop a highly
 appealing end product with a focus on healthcare professionals and their EMR applications. 
