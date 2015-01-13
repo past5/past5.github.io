@@ -27,10 +27,9 @@ knowledge gives them a distinct advantage over the competitors.  For example, th
 iterations because it is led by a 30 year industry professional who has unparalleled expertise in delivering Pharmanet software in British Columbia.  Moreover, we are supported by pharmacists who advise
 us and provide their industry-specific perspective.
 
-In the previous article, I implied that larger projects are done by larger teams.  This is not always true.  Quite often, a large project can be achieved with a relatively small team,
-given that the team consists of industry experts.  For example, in healthcare, many large Electronical Medical Records projects are successfully tackled on by small healthcare professional driven
-businesses with expert analysts having many years of experience in HL7 and medical records.  In EMR projects, external stakeholders are often other healthcare professionals, and having an industry
-expert at the helm enhances the company's credibility and allows the business to better solve that industry's knowledge domain-specific problems.
+As another example, many large Electronic Medical Records projects are successfully completed by small healthcare professional-driven businesses employing expert analysts with many years of experience
+in HL7 and medical records.  In EMR projects, external stakeholders are often other healthcare professionals.  Thus, having an industry expert at the helm enhances that company's credibility and
+allows the business find better solutions for that industry's knowledge domain-specific problems. 
 
 #### Flexibility and faster decision making
 In large companies, especially with a strong functional organization, a project manager is often limited in how much they are able to do.  Additional resources are negotiated with functional managers,
@@ -44,7 +43,8 @@ that must pass government compliance testing, then a major change in compliance 
 self-employed project lead could relatively quickly evaluate these changes and make an appropriate decision without having to wait for an approval from senior management, while enhancing their relationship
 with the customer.
 
-Finally, businesses employing smaller, expert-based teams also have an advantage because less communication channels exist between team members.  Less channels means simpler and more complete
+In the previous article, I implied that larger projects are done by larger teams.  This is not always true.  Quite often, a large project can be achieved with a relatively small team,
+given that the team consists of industry experts.  Businesses employing smaller, expert-based teams also have an advantage because less communication channels exist between team members.  Less channels means simpler and more complete
 control of all project communication.  Smaller size of the team also helps the integrity of the original message and reduces the risk of "broken telephone".  Thus, the smaller team implies simpler and 
 more flexible communication planning.
 
