@@ -31,5 +31,5 @@ spaceship...
 after reading my ramblings, I am also on [LinkedIn](https://ca.linkedin.com/in/past5).
 
 #### Why Past 5?
-**Past 5** signifies the never ending professional journey of an Information Technology consultant, whose work is not constrained by regular office hours.  **Past 5** is also that bit of extra effort we 
+**Past 5** signifies the never-ending professional journey of an Information Technology consultant, whose work is not constrained by regular office hours.  **Past 5** is also that bit of extra effort we 
 sometimes need to get the job done.  Yes, I wrote that with a straight face.  Got my inspiration while clock watching.
