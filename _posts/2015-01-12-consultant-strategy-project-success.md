@@ -37,27 +37,29 @@ and, oftentimes, the project lead does not have control over the project budget.
 control, thus slowing and predetermining the responses to these changes.
 
 On the other hand, a consultant usually has full control over their small business resources and can offer options to external stakeholders which are sometimes not possible in a large business.  For instance, 
-a project lead in control of their company can allow their customer to increase scope while increasing project budget in an execution phase of the project.  While traditionally, this is a bad practice called
-scope creep, in certain cases the scope changes are inevitable, especially when driven by external factors.  For example, if the aforementioned consultant is executing a project which delivers software
-that must pass government compliance testing, then a major change in compliance requirements could involve a significant re-make of software features and increased scope.  In such case, an expert
-self-employed project lead could relatively quickly evaluate these changes and make an appropriate decision without having to wait for an approval from senior management, while enhancing their relationship
-with the customer.
+a project lead in control of their company can allow their customer to increase scope while increasing project budget in an execution phase of the project.  While traditionally, allowing scope creep is a
+bad practice, in certain cases the scope changes are inevitable, especially when driven by external factors.  
 
-In the previous article, I implied that larger projects are done by larger teams.  This is not always true.  Quite often, a large project can be achieved with a relatively small team,
+For example, if the aforementioned consultant is executing a project which delivers software that must pass government compliance testing, then a major change in compliance requirements could
+involve a significant re-make of software features and increased scope.  In such case, an expert self-employed project lead could relatively quickly evaluate these changes and make an appropriate
+decision without having to wait for an approval from senior management, while enhancing their relationship with the customer.  If Titanic is a yacht rather than a cruiseship, it could easily change
+course and avoid the iceberg.
+
+Finally, in the previous article, I implied that larger projects are done by larger teams.  This is not always true.  Quite often, a large project can be achieved with a relatively small team,
 given that the team consists of industry experts.  Businesses employing smaller, expert-based teams also have an advantage because less communication channels exist between team members.  Less channels means simpler and more complete
 control of all project communication.  Smaller size of the team also helps the integrity of the original message and reduces the risk of "broken telephone".  Thus, the smaller team implies simpler and 
 more flexible communication planning.
 
 #### Process aids expertise
 So, can we conclude that a self-employed consultant can compete with a large business for a large project?  The answer is a frustrating maybe.  Situationally, if the project is fully within the domain
-knowledge of the consultant, then their chances of success are significantly higher.  On the other hand, larger projects involving several knowledge domains are probably better handled by larger
+knowledge of that consultant, then their chances of success are significantly higher.  On the other hand, larger projects involving several knowledge domains are probably better handled by larger
 organizations with available resources in every necessary area of expertise. 
 
-In any case, larger projects require significant project management knowledge, regardless of the size of the business.  This knowledge allows a project manager to plan the project better and mitigate risk.
-For example, I mentioned above how a small business can better react to changing government compliance requirements during the execution phase of the project.  However, this advantage is nullified by
-better planning.  Changing government requirements is a risk which can be foreseen by an experienced project leader.  From the very start of the project, a contingency budget reserve can be established
-to deal with such changes, thus eliminating the need for improvisation on the fly.  Thus, even a small business should strive to increase their process knowledge if they want to grow and take on sizeable
-projects.
+In any case, larger projects require significant project management knowledge, regardless of the business size.  This knowledge allows a project manager to plan their projects better and mitigate risk.
+For example, I mentioned above how a small business can better react to changing government compliance requirements during the execution phase of a project.  However, this advantage is nullified by
+better planning.  Changing government requirements is a risk which can be foreseen by an experienced project leader.  While planning a project, the expert project manager would establish a 
+contingency budget reserve to deal with such changes, thus eliminating the need for improvisation on the fly.  Thus, even a small business should strive to increase their process knowledge if they
+want to grow and take on big projects.
  
 
 
