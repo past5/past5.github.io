@@ -3,7 +3,7 @@ layout: page
 title : About
 header : Hello!
 group: navigation-01
-tagline: I'm Sev.  Customer Oriented Problem Solver, Software Engineer, Project Leader, and Happy New Dad.
+tagline: I'm Sev.  Customer-Oriented Problem Solver, Software Developer, Project Lead, and Happy New Dad.
 ---
 {% include JB/setup %}
 
