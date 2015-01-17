@@ -1,0 +1,2 @@
+name: past5-blog
+buildpack: https://github.com/ActiveState/heroku-buildpack-jekyll/
