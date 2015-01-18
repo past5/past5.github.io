@@ -2,7 +2,8 @@ store:
   title: Past 5 Apps for Stackato
   contact: Sev Geraskin <geraskin@gmail.com>
   icon: http://www.past5.com/assets/themes/past5/images/past5.png
-  
+
+apps:
 - name: Cron Email
   id: cronemail
   desc: a shell script that schedules cron jobs to send emails with attachment
