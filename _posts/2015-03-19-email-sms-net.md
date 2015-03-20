@@ -18,7 +18,8 @@ Our app needs to send notifications to customers' mobiles, but we don't have muc
 Thus, the easiest way to send an SMS message to a cell phone with a data plan would be to compose an email message and send it to the provided address.   
 
 #### Carrier services
-Each carrier provides an email-to-text service in the format 6041234567@carrier.ca.  Most of the carriers in Canada are listed below:
+Each carrier provides an email-to-text service in the format 6041234567@carrier.ca.  All we need to do is to compose an email message containing our text and send it to that email address.
+Most of the carriers in Canada are listed below:
 
 - Bell/President's Choice/Solo: `<phonenumber>@txt.bellmobility.ca` or `<phonenumber>@txt.bell.ca`
 - Fido/Microcell: `<phonenumber>@fido.ca`
