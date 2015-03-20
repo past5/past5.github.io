@@ -2,7 +2,7 @@
 layout: post
 title: "Email SMS Message in .NET"
 tagline: "sending SMS message using .NET SmtpClient and mobile carrier mail-to-SMS service"
-description: "This tutorial shows how to quickly send SMS message sending SMS message using .NET SmtpClient and mobile carrier mail-to-SMS service."
+description: "This tutorial shows how to quickly send SMS message using .NET SmtpClient and mobile carrier mail-to-SMS service."
 author: Vsevolod Geraskin
 category: [tutorials]
 tags: [code, .net, smtp, email, sms, c#]
