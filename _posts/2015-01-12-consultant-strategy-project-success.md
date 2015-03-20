@@ -60,41 +60,6 @@ For example, I mentioned above how a small business can better react to changing
 better planning.  Changing government requirements is a risk which can be foreseen by an experienced project leader.  While planning a project, the expert project manager would establish a 
 contingency budget reserve to deal with such changes, thus eliminating the need for improvisation on the fly.  Thus, even a small business should strive to increase their process knowledge if they
 want to grow and take on big projects.
- 
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-      
-
-
-
-  
-
-
-
-
-
-
-
 
 
 
