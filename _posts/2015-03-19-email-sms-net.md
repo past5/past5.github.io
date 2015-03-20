@@ -6,8 +6,8 @@ description: "This tutorial shows how to quickly send SMS message sending SMS me
 author: Vsevolod Geraskin
 category: [tutorials]
 tags: [code, .net, smtp, email, sms, c#]
-excerpt: "Fortunately, each mobile carrier provides email-to-SMS service for clients having a data package.  Thus, the easiest way to send an SMS message to a cell phone with a data plan would be to compose 
-an email message and send it to the provided address."
+excerpt: "Our app needs to send notifications to customers' mobiles, but we don't have much time.  Fortunately, each mobile carrier provides email-to-SMS service for clients having a data package. 
+Thus, the easiest way to send an SMS message to a cell phone with a data plan would be to compose an email message and send it to the provided address. "
 ---
 {% include JB/setup %}
 
