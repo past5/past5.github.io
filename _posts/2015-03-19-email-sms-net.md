@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Email SMS Message in .NET"
-tagline: "sending SMS message using .NET SmtpClient and mobile carrier mail-to-SMS service"
-description: "This tutorial shows how to quickly send SMS message using .NET SmtpClient and mobile carrier mail-to-SMS service."
+tagline: "sending SMS message using .NET SmtpClient and mobile carrier email-to-text service"
+description: "This tutorial shows how to quickly send SMS message using .NET SmtpClient and mobile carrier email-to-text service."
 author: Vsevolod Geraskin
 category: [tutorials]
 tags: [code, .net, smtp, email, sms, c#]
@@ -14,7 +14,7 @@ Thus, the easiest way to send an SMS message to a cell phone with a data plan wo
 <img class="float-right" width="300pt" src="/assets/post_images/sms1.jpg" alt="SMS" />
 
 #### Email to SMS
-Our app needs to send notifications to customers' mobiles, but we don't have much time.  Fortunately, each mobile carrier provides email-to-SMS service for clients having a data package. 
+Our app needs to send notifications to customers' mobiles, but we don't have much time.  Fortunately, each mobile carrier provides email-to-text service for clients having a data package. 
 Thus, the easiest way to send an SMS message to a cell phone with a data plan would be to compose an email message and send it to the provided address.   
 
 #### Carrier services
