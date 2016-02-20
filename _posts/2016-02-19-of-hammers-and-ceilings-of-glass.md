@@ -10,18 +10,18 @@ excerpt: "Just over a year and a half ago, I hit a point in my career where I fe
 ---
 {% include JB/setup %}
 
-#### Stuck In Neutral
+#### Stuck in Neutral
 <img class="float-left" width="300pt" src="/assets/post_images/glass1.jpg" alt="Broken Glass" />
 Just over a year and a half ago, I hit a point in my career where I felt a change was necessary.  What was once enjoyable became a chore, since I was not learning and innovating enough.  And as a software professional, being in such state for a prolonged period of time is a death knell for our careers.  We either keep moving forward or become obsolete.
 
 After spending several years in the same role, its easy to get into a comfort zone where many things become automatic.  With comfort come feelings of security and, if we are not careful, complacency.  So, if security is one of human basic needs, then how do we achieve self-actualization in a position with limited, if any, possibility of growth?
 
-#### Back To Cruising
+#### Back to Cruising
 Last year, I moved on and accepted a software development position with a medium-sized company in a challenging and innovative field.  Now, I feel like I am back on an upwards learning curve.  Leaving my consulting gig of 8 years and venturing out of my bubble was not easy, but now seems like an obvious and necessary step in personal development.  
 
 While making this career change last year, I accepted several basic truths, or, at least, what I consider now lessons in common sense.  Accepted is the key term, because these truths are what I had always known, but perhaps not always followed.  Measuring progress, proactively going out to industry events and meeting new people, and taking charge of my situation allowed me to breakthrough and make the necessary move in my career.
 
-#### Truth 1: Progress is tangible
+#### Truth 1: Progress is Tangible
 And, as such, it is always measurable.  Promotions aside, if we are not getting new responsibilities or learning new things over time, then, perhaps, a change is required.  To track progress, keeping a simple [To Do - Doing - Done](https://trello.com/) list of my daily tasks allows me to focus on important things.
 
 Every several months, I evaluate what was achieved and what progress was made.  If I cannot see progress, then none exists, and some corrective action is required.  Maintaining periodic self-evaluations and following up on them allows me to avoid rut for prolonged periods of time.
