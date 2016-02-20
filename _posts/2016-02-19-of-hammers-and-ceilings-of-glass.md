@@ -35,7 +35,7 @@ Luckily, we don't have to [slay Geryon in order to get his cattle](http://www.pe
 
 One of the biggest fallacies I discovered in my youth is the perceived notion that any hard work will be rewarded.  When I was twenty, I lived on my own and did jobs such as demolition and concrete removal to pay bills.  If you want to know what its like to feel exhausted, try swinging a 10 pound hammer at the wall for a few hours..  ..Do it for a day, and you might make a hundred bucks.  Not sure if that is an appropriate reward for inevitably wearing out your joints by age of thirty.
 
-And yet, I think demolition was also the easiest job I ever had.  What's hard is to develop a sledgehammer of mind that breaks through perceived glass ceilings and allows us to reap the social reward that comes with building a successful career and business.  Going out and getting customers is hard.  Satisfying them is even harder.  Constantly improving at what you do is hard.  Producing more than you take back is harder still.  Initiating meaningful change that impacts our whole lifestyle is often the hardest... 
+And yet, I think demolition was also the easiest job I ever had.  What's hard is to develop a sledgehammer of mind that breaks through perceived glass ceilings and allows us to reap the social reward that comes with building a successful career and business.  Going out and getting customers is hard.  Satisfying them is even harder.  Constantly improving at what we do is hard.  Producing more than we take back is harder still.  Initiating meaningful change that impacts our whole lifestyle is often the hardest... 
 
 And yet, I think that kind of hard is what gets rewarded.  I am still working on it.  Ask me again in a decade.
 
