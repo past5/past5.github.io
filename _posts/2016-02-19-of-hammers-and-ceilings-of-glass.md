@@ -24,7 +24,7 @@ While making this career change last year, I accepted several basic truths, or, 
 #### Truth 1: Progress is Tangible
 And, as such, it is always measurable.  Promotions aside, if we are not getting new responsibilities or learning new things over time, then, perhaps, a change is required.  To track progress, keeping a simple [To Do - Doing - Done](https://trello.com/) list of my daily tasks allows me to focus on important things.
 
-Every several months, I evaluate what was achieved and what progress was made.  If I cannot see progress, then none exists, and some corrective action is required.  Maintaining periodic self-evaluations and following up on them allows me to avoid rut for prolonged periods of time.
+Every several months, I evaluate what was achieved and what progress was made.  If I cannot see progress, then none exists, and some corrective action is required.  Thus, maintaining periodic self-evaluations and following up on them helps to avoid rut for prolonged periods of time.
 
 #### Truth 2: To Overcome Fear, Step Out of the Cave
 Comfort and security are some of the basic human needs.  After performing the same role for a significant amount of time, its easy to get into a comfortable bubble and out of touch with the real world.  Who knows what three-headed monsters lay beyond the Pillars of Hercules.
