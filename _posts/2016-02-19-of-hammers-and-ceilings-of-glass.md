@@ -10,9 +10,8 @@ excerpt: "Just over a year and a half ago, I hit a point in my career where I fe
 ---
 {% include JB/setup %}
 
-<img class="float-left" width="250pt" src="/assets/post_images/glass1.jpg" alt="Broken Glass" />
-
 #### Stuck In Neutral
+<img class="float-left" width="300pt" src="/assets/post_images/glass1.jpg" alt="Broken Glass" />
 Just over a year and a half ago, I hit a point in my career where I felt a change was necessary.  What was once enjoyable became a chore, since I was not learning and innovating enough.  And as a software professional, being in such state for a prolonged period of time is a death knell for our careers.  We either keep moving forward or become obsolete.
 
 After spending several years in the same role, its easy to get into a comfort zone where many things become automatic.  With comfort come feelings of security and, if we are not careful, complacency.  So, if security is one of human basic needs, then how do we achieve self-actualization in a position with limited, if any, possibility of growth?
