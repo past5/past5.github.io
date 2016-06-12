@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Of Hammers and Ceilings of Glass"
-tagline: "three truths to initiate a meaning change"
+tagline: "three truths to initiate a meaningful change"
 description: "This article is about initiating meaningful changes in our lives, and the helpful steps we could take, such as measuring progress, stepping out of comfort zone, and making our own luck."
 author: Vsevolod Geraskin
 category: [articles]

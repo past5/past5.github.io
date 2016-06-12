@@ -84,8 +84,7 @@ the project lead often relies on their technical knowledge to manage time and co
 Larger projects have more features, increasing both time and cost commitment.  More tasks means more interdependencies and one late work package could potentially affect more consecutive work packages, 
 increasing the risk of cost overruns and schedule slippage.  To avoid schedule or cost disaster, a project lead would then perform regular earned value calculations to see if the project is on track. 
 Moreover, in some cases to avoid missing important deadlines, the project lead would be required to compress the schedule which involves familiarity with techniques such as crashing or fast-tracking. 
-Crashing involves adding resources, while fast-tracking means scheduling various activities to run simultaneously instead of sequentially.  After all, ***REMOVED***
-***REMOVED*** to maintain time and cost baselines in large projects, project management knowledge and experience plays a far more significant role than technical knowledge.
+Crashing involves adding resources, while fast-tracking means scheduling various activities to run simultaneously instead of sequentially.  In order to maintain time and cost baselines in large projects, project management knowledge and experience plays a far more significant role than technical knowledge.
 
 #### Mitigating risks
 <img class="float-left" width="300pt" src="/assets/post_images/ppp3.jpg" alt="Risk" />
